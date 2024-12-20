@@ -77,7 +77,7 @@ Access the live demo at https://codeant-frontend-assignment.vercel.app/login
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:Phani4658/codeant-frontend-assignment.git
+   git clone https://github.com/Baig-fatema/CodeAnt-Frontend-Assignment.git
    cd codeant-frontend-assignment
    ```
 
