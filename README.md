@@ -140,5 +140,5 @@ Access the live demo at https://codeant-frontend-assignment.vercel.app/login
 ![Under Development Page Screenshot](/public/output/under_dev.png)
 
 ### Author
-**Phani**
-[Linkedin](https://linkedin.com/in/phani-cse)
+**Baig fatema**
+[Linkedin](www.linkedin.com/in/baig-fatema-begum-40b9a4304)
